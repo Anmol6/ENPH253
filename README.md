@@ -23,6 +23,7 @@ For navigation, we have chosen to store the course as a undirected graph, with i
 
 Overall the modular design made it easier to put all the components of the software together for the robot to function autonomously, and it also allowed for testing of individual parts of the software system.
 
-Authors:
+## Authors:
 Anmol Jawandha (High-level navigation, arm control)
+
 Henry Liu (Menu System, low-level testing)
