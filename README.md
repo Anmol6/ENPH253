@@ -22,3 +22,7 @@ Using the menu system has saved our team a lot of time debugging; instead of goi
 For navigation, we have chosen to store the course as a undirected graph, with intersections as nodes and paths between nodes as edges. In conjunction with the IR, the robot makes decisions at intersections by scanning the far-range IR for passengers. If no IR is detected, each node also stores two preferred neighboring nodes to create a path the robot can navigate through; this path would route the robot through regions with the most passenger spaces for the maximum probability to find a passenger.
 
 Overall the modular design made it easier to put all the components of the software together for the robot to function autonomously, and it also allowed for testing of individual parts of the software system.
+
+Authors:
+Anmol Jawandha (High-level navigation, arm control)
+Henry Liu (Menu System, low-level testing)
